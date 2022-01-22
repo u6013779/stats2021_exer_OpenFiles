@@ -1,0 +1,5 @@
+'demo()'
+ls()
+ls()
+ls()
+load(".RData")
